@@ -1,6 +1,6 @@
 {
   "name": "@wavesrcool/prettier-config-node",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Collected prettier configurations for Node.js.",
   "author": "Tyson Lupul <wavesrcool@icloud.com>",
   "homepage": "",
