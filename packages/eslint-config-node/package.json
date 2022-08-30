@@ -1,6 +1,6 @@
 {
   "name": "@wavesrcool/eslint-config-node",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Collected eslint configurations for Node.js.",
   "author": "Tyson Lupul <wavesrcool@icloud.com>",
   "license": "ISC",
